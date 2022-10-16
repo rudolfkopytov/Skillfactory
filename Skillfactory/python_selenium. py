@@ -1,0 +1,7 @@
+#python -m pip install selenium
+python -m pip install selenium
+
+from selenium import webdriver
+from selenium.webdriver.common.by import By
+
+driver = webdriver.Chrome/chromedriver.chromium.org/security-considerations for suggestions on keeping ChromeDriver safe.
